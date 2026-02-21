@@ -1,0 +1,51 @@
+[
+    {
+        "timestamp": "2026-02-22 00:29:37",
+        "message": "URGENT! Your bank account suspended. Click link and share OTP",
+        "risk_level": "High Risk Scam",
+        "final_score": 73.62,
+        "fraud_type": "OTP Scam"
+    },
+    {
+        "timestamp": "2026-02-22 00:29:52",
+        "message": "URGENT! Your bank account suspended. Click link and share ",
+        "risk_level": "Suspicious",
+        "final_score": 65.14,
+        "fraud_type": "Banking Scam"
+    },
+    {
+        "timestamp": "2026-02-22 00:30:05",
+        "message": "URGENT! Your b suspended. Click link and share ",
+        "risk_level": "Suspicious",
+        "final_score": 56.29,
+        "fraud_type": "Phishing Link"
+    },
+    {
+        "timestamp": "2026-02-22 00:30:11",
+        "message": "URGENT! ",
+        "risk_level": "Suspicious",
+        "final_score": 38.26,
+        "fraud_type": "General Suspicious Message"
+    },
+    {
+        "timestamp": "2026-02-22 00:30:23",
+        "message": "URGENT! Your bank account suspended. Click link and share OTP",
+        "risk_level": "High Risk Scam",
+        "final_score": 73.62,
+        "fraud_type": "OTP Scam"
+    },
+    {
+        "timestamp": "2026-02-22 00:31:39",
+        "message": "URGENT! Your bank account suspended. Click link and share OTP",
+        "risk_level": "High Risk Scam",
+        "final_score": 73.62,
+        "fraud_type": "OTP Scam"
+    },
+    {
+        "timestamp": "2026-02-22 00:36:44",
+        "message": "URGENT! Your bank account suspended. Click link and share OTP",
+        "risk_level": "High Risk Scam",
+        "final_score": 73.62,
+        "fraud_type": "OTP Scam"
+    }
+]
