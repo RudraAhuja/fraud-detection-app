@@ -8,11 +8,11 @@ Problem Statement:
 Due to the fast development of digital transactions and online communication, it is obsidian that fraud messages in the form of a bank, delivery service, or government agency appear. Most users are not able to identify real and fake messages instantly.
 
 This system provides:
-→ Real-time fraud detection
-→ Risk scoring
-→ Scam classification
-→ Explainable results
-→ Safety recommendations
+Real-time fraud detection
+Risk scoring
+Scam classification
+Explainable results
+Safety recommendations
 
 Features:
 → Instant message fraud detection.
