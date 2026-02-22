@@ -2,14 +2,14 @@ import joblib
 from utils.rule_engine import rule_based_score
 from utils.rule_engine import rule_based_score, detect_fraud_type
 
-# Load trained model + vectorizer
+# trained model + vectorizer
 model = joblib.load("model/model.pkl")
 vectorizer = joblib.load("model/vectorizer.pkl")
 
 def ml_probability(message):
     X = vectorizer.transform([message])
-    prob = model.predict_proba(X)[0][1]  # Probability of class 1 (fraud)
-    return prob * 100  # convert to percentage
+    prob = model.predict_proba(X)[0][1]  
+    return prob * 100 
 
 def final_analysis(message):
     # Rule-based score
