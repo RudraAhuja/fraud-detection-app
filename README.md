@@ -15,18 +15,18 @@ This system provides:
 5. Safety recommendations
 
 Features:
-→ Instant message fraud detection.
-→ Pattern and keyword detection is based on rules.
-→ Prediction of NLP-based scams.
-→ Combined risk scoring engine.
-→ Types of fraud (OTP scam, phishing, banking scam, et cetera)
-→ Distrustful highlighting of keywords.
-→ User safety measures.
-→ Message logging and storage
-→ Interactive and clean web interface.
+1. Instant message fraud detection.
+2. Pattern and keyword detection is based on rules.
+3. Prediction of NLP-based scams.
+4. Combined risk scoring engine.
+5. Types of fraud (OTP scam, phishing, banking scam, et cetera)
+6. Distrustful highlighting of keywords.
+7. User safety measures.
+8. Message logging and storage
+9. Interactive and clean web interface.
 
 System Architecture:
-→ Rule-based Detection Engine
+  Rule-based Detection Engine
 → NLP/ML Scam Probability Model
 → Combined Risk Score (Workflow Manager)
 → Fraud Classification
