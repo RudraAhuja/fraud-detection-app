@@ -34,16 +34,15 @@ System Architecture:
 → Message Logging
 
 Technologies Used
- Python (Flask)
- HTML, CSS, JavaScript
- Scikit-learn (NLP & ML model)
- TF-IDF Vectorizer
- Logistic Regression
- JSON (for message logging)
- Render (deployment)
+1. Python (Flask)
+2. HTML, CSS, JavaScript
+3. Scikit-learn (NLP & ML model)
+4. TF-IDF Vectorizer
+5. Logistic Regression
+6. JSON (for message logging)
+7. Render (deployment)
 
 How It Works
-
 1. Entry of the suspicious message by the user.
 2. Fraud indicator checks in the form of a rule-based engine.
 3. NLP model computes the probability of a scam.
@@ -56,11 +55,11 @@ Deployment Link
 Live App: https://fraud-detection-app-2-hmta.onrender.com
 
 Future Improvements:
-→ Multilingual fraud detection 
-→ Voice-based fraud detection
-→ Image/screen shot fraud detection.
-→ REAL-Time integration with telecommunication companies.
-→ High-tech deep neural networks.
+1. Multilingual fraud detection
+2. Voice-based fraud detection
+3. Image/screen shot fraud detection.
+4. REAL-Time integration with telecommunication companies.
+5. High-tech deep neural networks.
 
 Conclusion:
 This project can be seen as an illustrative and comprehensible method of digital fraud detection with the help of a hybrid machine learning and rules-based system. It tries to increase the awareness of users and avoid the possibility of digital fraud through real-time guidance and risk assessment.
