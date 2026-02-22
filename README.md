@@ -34,14 +34,13 @@ System Architecture:
 → Message Logging
 
 Technologies Used
-
-→ Python (Flask)
-→ HTML, CSS, JavaScript
-→ Scikit-learn (NLP & ML model)
-→ TF-IDF Vectorizer
-→ Logistic Regression
-→ JSON (for message logging)
-→ Render (deployment)
+ Python (Flask)
+ HTML, CSS, JavaScript
+ Scikit-learn (NLP & ML model)
+ TF-IDF Vectorizer
+ Logistic Regression
+ JSON (for message logging)
+ Render (deployment)
 
 How It Works
 
